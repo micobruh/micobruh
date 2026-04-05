@@ -58,12 +58,15 @@ Data Scientist | AI Engineer | ML Engineer
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=micobruh&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=micobruh&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=micobruh&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Projects:
+1. **[Legal Contract Copilot](https://github.com/micobruh/contract-copilot)**  
+   AI assistant for analyzing and interacting with legal contracts  
 
----
-[![](https://visitcount.itsvg.in/api?id=micobruh&icon=0&color=0)](https://visitcount.itsvg.in)
+2. **[Household Energy Usage Disaggregation AI](https://github.com/micobruh/SimEnergy-Legacy)**  
+   Machine learning system for energy consumption breakdown  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+3. **[Reward-Free Safe Reinforcement Learning Exploration](https://github.com/micobruh/safe-rl)**  
+   Research on safe exploration using entropy-based RL methods
+
+4. **[Finding the Closest Border Checkpoint](https://github.com/micobruh/UA-HELP)**
+   Prototype that uses Hong Kong as an example to look for the closest border checkpoint given a location
