@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Scientist | AI Engineer | ML Engineer
+### Data Scientist | AI Engineer | ML Engineer
 
 I’m Marco Mo, a recent MSc graduate in Data Science and AI from TU Eindhoven.
 
@@ -32,7 +32,7 @@ I enjoy working across the full pipeline, from data and modeling to scalable sol
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ### LLM / Vector Databases
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgZmlsbD0iI2ZmZiI+PHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjAiIGZpbGw9IiMwMEE2N0UiLz48cGF0aCBkPSJNNDggMjBjLTE1LjUgMC0yOCAxMi41LTI4IDI4czEyLjUgMjggMjggMjggMjgtMTIuNSAyOC0yOC0xMi41LTI4LTI4LTI4em0wIDUwYy0xMi4xIDAtMjItOS45LTIyLTIyczkuOS0yMiAyMi0yMiAyMiA5LjkgMjIgMjItOS45IDIyLTIyIDIyeiIvPjwvc3ZnPg==&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge&logo=qdrant&logoColor=white)
 
