@@ -66,14 +66,17 @@ I enjoy working across the full pipeline, from data and modeling to scalable sol
 
 
 # 📊 GitHub Projects:
-1. **[Legal Contract Copilot](https://github.com/micobruh/contract-copilot)**  
+1. **[Fraud Detection ML Pipeline](https://github.com/micobruh/fraud-detection-mlops)**  
+   AI model that detects fraud transaction on streaming data using MLOps Techniques
+
+2. **[Legal Contract Copilot](https://github.com/micobruh/contract-copilot)**  
    AI assistant for analyzing and interacting with legal contracts  
 
-2. **[Household Energy Usage Disaggregation AI](https://github.com/micobruh/SimEnergy-Legacy)**  
+3. **[Household Energy Usage Disaggregation AI](https://github.com/micobruh/SimEnergy-Legacy)**  
    Machine learning system for energy consumption breakdown  
 
-3. **[Finding the Closest Border Checkpoint](https://github.com/micobruh/UA-HELP)**  
+4. **[Finding the Closest Border Checkpoint](https://github.com/micobruh/UA-HELP)**  
    Prototype that finds the nearest border checkpoint given a location  
 
-4. **[Reward-Free Safe Reinforcement Learning Exploration](https://github.com/micobruh/safe-rl)**  
+5. **[Reward-Free Safe Reinforcement Learning Exploration](https://github.com/micobruh/safe-rl)**  
    Research on safe exploration using entropy-based RL methods 
